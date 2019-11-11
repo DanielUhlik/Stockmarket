@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock market</string>
+    <string name="stock_id_placeholder">MSFT</string>
+    <string name="input_company_dialog_title">Input company</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
